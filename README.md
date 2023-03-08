@@ -23,4 +23,8 @@ Let's have current situation and I have solved some questions regrading to it.
 
 10.  Can we forecast the sheet for future and reference?
 
+
 ![image](https://user-images.githubusercontent.com/121561258/223709725-ee80c804-9719-4e1b-af45-b4a933882b22.png)
+
+
+![image](https://user-images.githubusercontent.com/121561258/223710248-9d60b459-b000-4b32-b385-31a9971eac4a.png)
