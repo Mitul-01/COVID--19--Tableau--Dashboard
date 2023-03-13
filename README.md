@@ -1,4 +1,4 @@
-# COVID-19-Dashboard
+# COVID-19-Tableau-Dashboard
 
 Let's consider the Covid-19 situation:
 Let's have current situation and I have solved some questions regrading to it.
