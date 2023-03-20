@@ -23,6 +23,8 @@ Let's have current situation and I have solved some questions regrading to it.
 
 10.  Can we forecast the sheet for future and reference?
 
+Tableau public Source - https://public.tableau.com/views/covid19_16741952341150/C-19DashboardINTL?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
 ![image](https://user-images.githubusercontent.com/121561258/223709725-ee80c804-9719-4e1b-af45-b4a933882b22.png)
 
